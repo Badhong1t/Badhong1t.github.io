@@ -1,0 +1,159 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #eee;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+
+    width: 1000px;
+    background-color: #8ff2e8;
+    margin: 0 auto;
+
+
+}
+
+img{
+
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+
+.title{
+
+    color: #039485;
+    float: left;
+    padding: 30px;
+
+}
+
+.contact-information{
+
+    float: right;
+    padding: 30px;
+
+}
+
+.contact-information a{
+
+    text-decoration: none;
+    color: #039485;
+
+}
+
+.div-clear{
+
+    clear: both;
+
+}
+
+hr{
+
+    width: 95%;
+    border: solid black 2px;
+    border-bottom: none;
+    margin: 0 auto;
+}
+
+.left-side{
+
+    width: 20%;
+    color: #039485;
+    float: left;
+    margin-left: 20px;
+
+    
+}
+
+.right-side{
+
+    width: 70%;
+    float: right;
+    margin-right: 20px;
+    
+
+}
+
+.common-hr{
+
+    width: 95%;
+    margin: 0 auto;
+    border: solid black 1px;
+    border-bottom: none;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    color: #039485;
+
+}
+
+.left-right-side{
+
+    width: 50%;
+    float: left;
+
+}
+
+.right-right-side{
+
+    float: right;
+    width: 50%;
+
+}
+
+ul li{
+
+    margin-left: 16px;
+
+}
+
+footer{
+
+    background-color: black;
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.contact{
+
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+.contact-div{
+    
+    text-align: center;
+
+}
+
+.contact:hover{
+
+    background-color: white;
+    color: black;
+
+}
+
+.contact-para{
+
+    color: white;
+
+}
